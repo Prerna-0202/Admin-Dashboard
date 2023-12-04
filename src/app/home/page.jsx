@@ -4,7 +4,6 @@ import axios from 'axios';
 import AdminTable from '@/components/AdminTable';
 
 const page = () => {
-
     const [users, setUsers] = useState([]);
 
     useEffect(() => {

@@ -17,12 +17,12 @@ const AdminDashboard = () => {
 
             <div id="cards" class="rounded-lg flex border py-5 px-6 md:py-8 md:px-16 -mt-6 bg-white xl:-ml-24 xl:pl-8 xl:rounded-xl">
                 <div id="circle" class="w-8 h-8 bg-blue-500 md:w-16 md:h-16 rounded-full"></div>
-                <p class="pl-4 md:pl-12 text-base pt-1 font-semibold md:text-2xl md:pt-4">“Your Admin Dashboard”</p>
+                <p class="pl-4 md:pl-12 text-base pt-1 font-semibold md:text-2xl md:pt-4">Your Admin Dashboard</p>
             </div>
 
             <div id="cards" class="rounded-lg flex border py-5 px-6 md:py-8 md:px-16 mt-6 md:mt-12 bg-white xl:pl-8 xl:rounded-xl">
                 <div id="circle" class="w-8 h-8 bg-blue-500 md:w-16 md:h-16 rounded-full"></div>
-                <p class="pl-4 md:pl-12 text-base pt-1 font-semibold md:text-2xl md:pt-4">"Your Command Center"</p>
+                <p class="pl-4 md:pl-12 text-base pt-1 font-semibold md:text-2xl md:pt-4">Your Command Center</p>
             </div>
 
         </div>

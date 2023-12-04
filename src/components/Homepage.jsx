@@ -10,7 +10,7 @@ const AdminDashboard = () => {
               Dashboard <br/>
             </h1>
             <p class="text-white text-normal md:text-3xl pt-3 md:pt-6 font-medium mb-4">Lorem ipsum dolor sit amet.</p>
-          <Link href="/home" className="font-bold text-blue-500 bg-white px-4 py-2 rounded-md">Get Started </Link>
+          <Link href="/HomeMain" className="font-bold text-blue-500 bg-white px-4 py-2 rounded-md">Get Started </Link>
         </div>
 
         <div id="col-2" class="px-3 md:px-20 xl:py-64 xl:px-12">

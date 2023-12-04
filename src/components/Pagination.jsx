@@ -42,7 +42,7 @@ const Pagination = ({ searchTerm, users, itemsPerPage, currentPage, totalPages, 
         const pageButtons = [];
         for (let i = 1; i <= totalPages; i++) {
             pageButtons.push(
-                <button key={i} onClick={() => setCurrentPage(i)}>
+                <button key={i} onClick={() => setCurrentPage(i)} className='border-2 border-gray-200 rounded-sm px-2 py-1 mx-2'>
                     {i}
                 </button>
             );

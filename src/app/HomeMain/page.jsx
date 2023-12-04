@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import AdminTable from '@/components/AdminTable';
 
-const page = () => {
+const Page = () => {
     const [users, setUsers] = useState([]);
 
     useEffect(() => {
@@ -25,4 +25,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
